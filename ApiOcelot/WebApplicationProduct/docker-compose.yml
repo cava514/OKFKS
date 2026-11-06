@@ -1,0 +1,6 @@
+services:
+  webapplicationproduct:
+    image: ${DOCKER_REGISTRY-}webapplicationproduct
+    build:
+      context: .
+      dockerfile: WebApplicationProduct/Dockerfile

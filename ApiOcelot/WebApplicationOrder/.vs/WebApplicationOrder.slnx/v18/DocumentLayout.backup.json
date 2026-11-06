@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Temp\\ispp45\\ViPCS\\ViPCS\\WebApplicationOrder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC69657-0E24-4B88-8633-AF0F5624F4B2}|WebApplicationOrder\\WebApplicationOrder.csproj|c:\\temp\\ispp45\\vipcs\\vipcs\\webapplicationorder\\webapplicationorder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DC69657-0E24-4B88-8633-AF0F5624F4B2}|WebApplicationOrder\\WebApplicationOrder.csproj|solutionrelative:webapplicationorder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC69657-0E24-4B88-8633-AF0F5624F4B2}|WebApplicationOrder\\WebApplicationOrder.csproj|c:\\temp\\ispp45\\vipcs\\vipcs\\webapplicationorder\\webapplicationorder\\webapplicationorder.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2DC69657-0E24-4B88-8633-AF0F5624F4B2}|WebApplicationOrder\\WebApplicationOrder.csproj|solutionrelative:webapplicationorder\\webapplicationorder.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC69657-0E24-4B88-8633-AF0F5624F4B2}|WebApplicationOrder\\WebApplicationOrder.csproj|c:\\temp\\ispp45\\vipcs\\vipcs\\webapplicationorder\\webapplicationorder\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DC69657-0E24-4B88-8633-AF0F5624F4B2}|WebApplicationOrder\\WebApplicationOrder.csproj|solutionrelative:webapplicationorder\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC69657-0E24-4B88-8633-AF0F5624F4B2}|WebApplicationOrder\\WebApplicationOrder.csproj|c:\\temp\\ispp45\\vipcs\\vipcs\\webapplicationorder\\webapplicationorder\\service\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DC69657-0E24-4B88-8633-AF0F5624F4B2}|WebApplicationOrder\\WebApplicationOrder.csproj|solutionrelative:webapplicationorder\\service\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC69657-0E24-4B88-8633-AF0F5624F4B2}|WebApplicationOrder\\WebApplicationOrder.csproj|c:\\temp\\ispp45\\vipcs\\vipcs\\webapplicationorder\\webapplicationorder\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DC69657-0E24-4B88-8633-AF0F5624F4B2}|WebApplicationOrder\\WebApplicationOrder.csproj|solutionrelative:webapplicationorder\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebApplicationOrder",
+              "DocumentMoniker": "C:\\Temp\\ispp45\\ViPCS\\ViPCS\\WebApplicationOrder\\WebApplicationOrder\\WebApplicationOrder.csproj",
+              "RelativeDocumentMoniker": "WebApplicationOrder\\WebApplicationOrder.csproj",
+              "ToolTip": "C:\\Temp\\ispp45\\ViPCS\\ViPCS\\WebApplicationOrder\\WebApplicationOrder\\WebApplicationOrder.csproj",
+              "RelativeToolTip": "WebApplicationOrder\\WebApplicationOrder.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-17T10:33:18.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp45\\ViPCS\\ViPCS\\WebApplicationOrder\\WebApplicationOrder\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "WebApplicationOrder\\ApplicationContext.cs",
+              "ToolTip": "C:\\Temp\\ispp45\\ViPCS\\ViPCS\\WebApplicationOrder\\WebApplicationOrder\\ApplicationContext.cs",
+              "RelativeToolTip": "WebApplicationOrder\\ApplicationContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T10:14:46.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp45\\ViPCS\\ViPCS\\WebApplicationOrder\\WebApplicationOrder\\Service\\OrderService.cs",
+              "RelativeDocumentMoniker": "WebApplicationOrder\\Service\\OrderService.cs",
+              "ToolTip": "C:\\Temp\\ispp45\\ViPCS\\ViPCS\\WebApplicationOrder\\WebApplicationOrder\\Service\\OrderService.cs",
+              "RelativeToolTip": "WebApplicationOrder\\Service\\OrderService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T10:00:02.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp45\\ViPCS\\ViPCS\\WebApplicationOrder\\WebApplicationOrder\\Order.cs",
+              "RelativeDocumentMoniker": "WebApplicationOrder\\Order.cs",
+              "ToolTip": "C:\\Temp\\ispp45\\ViPCS\\ViPCS\\WebApplicationOrder\\WebApplicationOrder\\Order.cs",
+              "RelativeToolTip": "WebApplicationOrder\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T09:59:47.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp45\\ViPCS\\ViPCS\\WebApplicationOrder\\WebApplicationOrder\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplicationOrder\\Program.cs",
+              "ToolTip": "C:\\Temp\\ispp45\\ViPCS\\ViPCS\\WebApplicationOrder\\WebApplicationOrder\\Program.cs",
+              "RelativeToolTip": "WebApplicationOrder\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T09:58:39.648Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
