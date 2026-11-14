@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ConsoleAppNamedPipeServerStream/ConsoleAppNamedPipeServerStream.csproj" />
+  <Project Path="LabWork7/LabWork7.csproj" />
+  <Project Path="WinFormsAppNamedPipeServerStream/WinFormsAppNamedPipeServerStream.csproj" />
+</Solution>

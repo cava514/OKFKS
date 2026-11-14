@@ -1,0 +1,14 @@
+C:\Temp\.ispp45\LabWork8\LabWork8\bin\Release\net10.0\LabWork8.exe
+C:\Temp\.ispp45\LabWork8\LabWork8\bin\Release\net10.0\LabWork8.deps.json
+C:\Temp\.ispp45\LabWork8\LabWork8\bin\Release\net10.0\LabWork8.runtimeconfig.json
+C:\Temp\.ispp45\LabWork8\LabWork8\bin\Release\net10.0\LabWork8.dll
+C:\Temp\.ispp45\LabWork8\LabWork8\bin\Release\net10.0\LabWork8.pdb
+C:\Temp\.ispp45\LabWork8\LabWork8\obj\Release\net10.0\LabWork8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\.ispp45\LabWork8\LabWork8\obj\Release\net10.0\LabWork8.AssemblyInfoInputs.cache
+C:\Temp\.ispp45\LabWork8\LabWork8\obj\Release\net10.0\LabWork8.AssemblyInfo.cs
+C:\Temp\.ispp45\LabWork8\LabWork8\obj\Release\net10.0\LabWork8.csproj.CoreCompileInputs.cache
+C:\Temp\.ispp45\LabWork8\LabWork8\obj\Release\net10.0\LabWork8.dll
+C:\Temp\.ispp45\LabWork8\LabWork8\obj\Release\net10.0\refint\LabWork8.dll
+C:\Temp\.ispp45\LabWork8\LabWork8\obj\Release\net10.0\LabWork8.pdb
+C:\Temp\.ispp45\LabWork8\LabWork8\obj\Release\net10.0\LabWork8.genruntimeconfig.cache
+C:\Temp\.ispp45\LabWork8\LabWork8\obj\Release\net10.0\ref\LabWork8.dll

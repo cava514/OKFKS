@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Новый профиль",
+    "Projects": [
+      {
+        "Path": "WinFormsAppNamedPipeServerStream\\WinFormsAppNamedPipeServerStream.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ConsoleAppNamedPipeServerStream\\ConsoleAppNamedPipeServerStream.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

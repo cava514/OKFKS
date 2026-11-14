@@ -1,0 +1,17 @@
+Renamed Types:
+
+[LabWork8]LabWork8.Program -> [LabWork8]A.A
+{
+	[LabWork8]LabWork8.Program::Main[1]( [System.Runtime]System.String[] ) -> A
+	[LabWork8]LabWork8.Program::PasswordIsCorrect[2]( [System.Runtime]System.String, [System.Runtime]System.String ) -> A
+
+	[LabWork8]LabWork8.Program::.ctor[0]( ) skipped:  special name
+}
+
+Skipped Types:
+
+Renamed Resources:
+
+
+Skipped Resources:
+

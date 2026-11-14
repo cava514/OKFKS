@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Temp\\.ispp45\\LabWork8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35585C4C-7C1C-4546-AE05-0C506D59075A}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{35585C4C-7C1C-4546-AE05-0C506D59075A}|C:\\Temp\\.ispp45\\LabWork8\\obfuscar.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{35585C4C-7C1C-4546-AE05-0C506D59075A}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{35585C4C-7C1C-4546-AE05-0C506D59075A}|solutionrelative:obfuscar.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE758B2-5923-EF2A-1C01-31A521460867}|LabWork8\\LabWork8.csproj|c:\\temp\\.ispp45\\labwork8\\labwork8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCE758B2-5923-EF2A-1C01-31A521460867}|LabWork8\\LabWork8.csproj|solutionrelative:labwork8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "obfuscar.xml",
+              "DocumentMoniker": "C:\\Temp\\.ispp45\\LabWork8\\obfuscar.xml",
+              "RelativeDocumentMoniker": "obfuscar.xml",
+              "ToolTip": "C:\\Temp\\.ispp45\\LabWork8\\obfuscar.xml",
+              "RelativeToolTip": "obfuscar.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-10-24T08:01:29.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Temp\\.ispp45\\LabWork8\\LabWork8\\Program.cs",
+              "RelativeDocumentMoniker": "LabWork8\\Program.cs",
+              "ToolTip": "C:\\Temp\\.ispp45\\LabWork8\\LabWork8\\Program.cs",
+              "RelativeToolTip": "LabWork8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T07:36:55.257Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
