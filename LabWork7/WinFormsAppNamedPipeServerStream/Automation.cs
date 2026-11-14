@@ -11,5 +11,25 @@ namespace WinFormsAppNamedPipeServerStream
         {
             MessageBox.Show(text);
         }
+
+        public void Create()
+        {
+
+        }
+
+        public void Read(int id)
+        {
+
+        }
+
+        public void Update(int id)
+        {
+
+        }
+
+        public void Delete(int id)
+        {
+
+        }
     }
 }

@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Temp\\.ispp45\\ScriptingApp\\",
+  "WorkspaceRootPath": "C:\\Temp\\.ispp45\\OKFKS\\ScriptingApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4E9D3CFD-C9E5-47BB-8C57-8D6D1FE2CE76}|ScriptingApp\\ScriptingApp.csproj|c:\\temp\\.ispp45\\scriptingapp\\scriptingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E9D3CFD-C9E5-47BB-8C57-8D6D1FE2CE76}|ScriptingApp\\ScriptingApp.csproj|solutionrelative:scriptingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CDA93E12-78FA-0804-2A62-E9E9370B3BA0}|ScriptingApp\\ScriptingApp.csproj|c:\\temp\\.ispp45\\okfks\\scriptingapp\\scriptingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDA93E12-78FA-0804-2A62-E9E9370B3BA0}|ScriptingApp\\ScriptingApp.csproj|solutionrelative:scriptingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,14 +28,15 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Temp\\.ispp45\\ScriptingApp\\ScriptingApp\\Program.cs",
+              "DocumentMoniker": "C:\\Temp\\.ispp45\\OKFKS\\ScriptingApp\\ScriptingApp\\Program.cs",
               "RelativeDocumentMoniker": "ScriptingApp\\Program.cs",
-              "ToolTip": "C:\\Temp\\.ispp45\\ScriptingApp\\ScriptingApp\\Program.cs",
+              "ToolTip": "C:\\Temp\\.ispp45\\OKFKS\\ScriptingApp\\ScriptingApp\\Program.cs",
               "RelativeToolTip": "ScriptingApp\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-31T07:33:37.798Z",
-              "EditorCaption": ""
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
             }
           ]
         }

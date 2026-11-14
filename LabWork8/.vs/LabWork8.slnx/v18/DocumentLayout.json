@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Temp\\.ispp45\\LabWork8\\",
+  "WorkspaceRootPath": "C:\\Temp\\.ispp45\\OKFKS\\LabWork8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{35585C4C-7C1C-4546-AE05-0C506D59075A}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{35585C4C-7C1C-4546-AE05-0C506D59075A}|C:\\Temp\\.ispp45\\LabWork8\\obfuscar.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{35585C4C-7C1C-4546-AE05-0C506D59075A}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{35585C4C-7C1C-4546-AE05-0C506D59075A}|solutionrelative:obfuscar.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{BCE758B2-5923-EF2A-1C01-31A521460867}|LabWork8\\LabWork8.csproj|c:\\temp\\.ispp45\\okfks\\labwork8\\labwork8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCE758B2-5923-EF2A-1C01-31A521460867}|LabWork8\\LabWork8.csproj|solutionrelative:labwork8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BCE758B2-5923-EF2A-1C01-31A521460867}|LabWork8\\LabWork8.csproj|c:\\temp\\.ispp45\\labwork8\\labwork8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BCE758B2-5923-EF2A-1C01-31A521460867}|LabWork8\\LabWork8.csproj|solutionrelative:labwork8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{48F5E42B-220B-06E1-EF7D-634A1588BC5E}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{48F5E42B-220B-06E1-EF7D-634A1588BC5E}|C:\\Temp\\.ispp45\\OKFKS\\LabWork8\\obfuscar.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{48F5E42B-220B-06E1-EF7D-634A1588BC5E}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{48F5E42B-220B-06E1-EF7D-634A1588BC5E}|solutionrelative:obfuscar.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,29 +30,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "obfuscar.xml",
-              "DocumentMoniker": "C:\\Temp\\.ispp45\\LabWork8\\obfuscar.xml",
+              "DocumentMoniker": "C:\\Temp\\.ispp45\\OKFKS\\LabWork8\\obfuscar.xml",
               "RelativeDocumentMoniker": "obfuscar.xml",
-              "ToolTip": "C:\\Temp\\.ispp45\\LabWork8\\obfuscar.xml",
+              "ToolTip": "C:\\Temp\\.ispp45\\OKFKS\\LabWork8\\obfuscar.xml",
               "RelativeToolTip": "obfuscar.xml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
               "WhenOpened": "2026-10-24T08:01:29.832Z",
-              "EditorCaption": ""
+              "EditorCaption": "",
+              "OwnerCaption": "%3"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Temp\\.ispp45\\LabWork8\\LabWork8\\Program.cs",
+              "DocumentMoniker": "C:\\Temp\\.ispp45\\OKFKS\\LabWork8\\LabWork8\\Program.cs",
               "RelativeDocumentMoniker": "LabWork8\\Program.cs",
-              "ToolTip": "C:\\Temp\\.ispp45\\LabWork8\\LabWork8\\Program.cs",
+              "ToolTip": "C:\\Temp\\.ispp45\\OKFKS\\LabWork8\\LabWork8\\Program.cs",
               "RelativeToolTip": "LabWork8\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-24T07:36:55.257Z",
-              "EditorCaption": ""
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
             }
           ]
         }

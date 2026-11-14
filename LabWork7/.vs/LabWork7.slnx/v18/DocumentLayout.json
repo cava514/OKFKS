@@ -1,34 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Temp\\.ispp45\\LabWork7\\",
+  "WorkspaceRootPath": "C:\\Temp\\.ispp45\\OKFKS\\LabWork7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{086E131F-D7AB-4B80-B67F-66D02F9D8F97}|WinFormsAppNamedPipeServerStream\\WinFormsAppNamedPipeServerStream.csproj|c:\\temp\\.ispp45\\labwork7\\winformsappnamedpipeserverstream\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{086E131F-D7AB-4B80-B67F-66D02F9D8F97}|WinFormsAppNamedPipeServerStream\\WinFormsAppNamedPipeServerStream.csproj|solutionrelative:winformsappnamedpipeserverstream\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5AA0D1D1-312A-B8ED-0745-25C82562C6AF}|WinFormsAppNamedPipeServerStream\\WinFormsAppNamedPipeServerStream.csproj|c:\\temp\\.ispp45\\okfks\\labwork7\\winformsappnamedpipeserverstream\\automation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA0D1D1-312A-B8ED-0745-25C82562C6AF}|WinFormsAppNamedPipeServerStream\\WinFormsAppNamedPipeServerStream.csproj|solutionrelative:winformsappnamedpipeserverstream\\automation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5D4D007-7C5B-4A06-9F1E-A13B0E4D490E}|LabWork7\\LabWork7.csproj|c:\\temp\\.ispp45\\labwork7\\labwork7\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5D4D007-7C5B-4A06-9F1E-A13B0E4D490E}|LabWork7\\LabWork7.csproj|solutionrelative:labwork7\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5AA0D1D1-312A-B8ED-0745-25C82562C6AF}|WinFormsAppNamedPipeServerStream\\WinFormsAppNamedPipeServerStream.csproj|c:\\temp\\.ispp45\\okfks\\labwork7\\winformsappnamedpipeserverstream\\scriptinghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA0D1D1-312A-B8ED-0745-25C82562C6AF}|WinFormsAppNamedPipeServerStream\\WinFormsAppNamedPipeServerStream.csproj|solutionrelative:winformsappnamedpipeserverstream\\scriptinghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{086E131F-D7AB-4B80-B67F-66D02F9D8F97}|WinFormsAppNamedPipeServerStream\\WinFormsAppNamedPipeServerStream.csproj|c:\\temp\\.ispp45\\labwork7\\winformsappnamedpipeserverstream\\scriptinghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{086E131F-D7AB-4B80-B67F-66D02F9D8F97}|WinFormsAppNamedPipeServerStream\\WinFormsAppNamedPipeServerStream.csproj|solutionrelative:winformsappnamedpipeserverstream\\scriptinghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9AE1F468-6A76-1105-0F49-4AC28ABB4CC3}|ConsoleAppNamedPipeServerStream\\ConsoleAppNamedPipeServerStream.csproj|c:\\temp\\.ispp45\\okfks\\labwork7\\consoleappnamedpipeserverstream\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE1F468-6A76-1105-0F49-4AC28ABB4CC3}|ConsoleAppNamedPipeServerStream\\ConsoleAppNamedPipeServerStream.csproj|solutionrelative:consoleappnamedpipeserverstream\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{086E131F-D7AB-4B80-B67F-66D02F9D8F97}|WinFormsAppNamedPipeServerStream\\WinFormsAppNamedPipeServerStream.csproj|c:\\temp\\.ispp45\\labwork7\\winformsappnamedpipeserverstream\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{086E131F-D7AB-4B80-B67F-66D02F9D8F97}|WinFormsAppNamedPipeServerStream\\WinFormsAppNamedPipeServerStream.csproj|solutionrelative:winformsappnamedpipeserverstream\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{5AA0D1D1-312A-B8ED-0745-25C82562C6AF}|WinFormsAppNamedPipeServerStream\\WinFormsAppNamedPipeServerStream.csproj|c:\\temp\\.ispp45\\okfks\\labwork7\\winformsappnamedpipeserverstream\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA0D1D1-312A-B8ED-0745-25C82562C6AF}|WinFormsAppNamedPipeServerStream\\WinFormsAppNamedPipeServerStream.csproj|solutionrelative:winformsappnamedpipeserverstream\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D302614-C21A-49CB-AA6A-A661F30461AE}|ConsoleAppNamedPipeServerStream\\ConsoleAppNamedPipeServerStream.csproj|c:\\temp\\.ispp45\\labwork7\\consoleappnamedpipeserverstream\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D302614-C21A-49CB-AA6A-A661F30461AE}|ConsoleAppNamedPipeServerStream\\ConsoleAppNamedPipeServerStream.csproj|solutionrelative:consoleappnamedpipeserverstream\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5D4D007-7C5B-4A06-9F1E-A13B0E4D490E}|LabWork7\\LabWork7.csproj|c:\\temp\\.ispp45\\labwork7\\labwork7\\scriptinghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5D4D007-7C5B-4A06-9F1E-A13B0E4D490E}|LabWork7\\LabWork7.csproj|solutionrelative:labwork7\\scriptinghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{086E131F-D7AB-4B80-B67F-66D02F9D8F97}|WinFormsAppNamedPipeServerStream\\WinFormsAppNamedPipeServerStream.csproj|c:\\temp\\.ispp45\\labwork7\\winformsappnamedpipeserverstream\\textfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{086E131F-D7AB-4B80-B67F-66D02F9D8F97}|WinFormsAppNamedPipeServerStream\\WinFormsAppNamedPipeServerStream.csproj|solutionrelative:winformsappnamedpipeserverstream\\textfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{5AA0D1D1-312A-B8ED-0745-25C82562C6AF}|WinFormsAppNamedPipeServerStream\\WinFormsAppNamedPipeServerStream.csproj|c:\\temp\\.ispp45\\okfks\\labwork7\\winformsappnamedpipeserverstream\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5AA0D1D1-312A-B8ED-0745-25C82562C6AF}|WinFormsAppNamedPipeServerStream\\WinFormsAppNamedPipeServerStream.csproj|solutionrelative:winformsappnamedpipeserverstream\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,8 +29,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "DockedWidth": 252,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,93 +42,78 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Temp\\.ispp45\\LabWork7\\LabWork7\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "LabWork7\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Temp\\.ispp45\\LabWork7\\LabWork7\\MainWindow.xaml.cs",
-              "RelativeToolTip": "LabWork7\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-31T10:46:49.164Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ScriptingHost.cs",
-              "DocumentMoniker": "C:\\Temp\\.ispp45\\LabWork7\\LabWork7\\ScriptingHost.cs",
-              "RelativeDocumentMoniker": "LabWork7\\ScriptingHost.cs",
-              "ToolTip": "C:\\Temp\\.ispp45\\LabWork7\\LabWork7\\ScriptingHost.cs",
-              "RelativeToolTip": "LabWork7\\ScriptingHost.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-31T10:39:40.659Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Temp\\.ispp45\\LabWork7\\ConsoleAppNamedPipeServerStream\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleAppNamedPipeServerStream\\Program.cs",
-              "ToolTip": "C:\\Temp\\.ispp45\\LabWork7\\ConsoleAppNamedPipeServerStream\\Program.cs",
-              "RelativeToolTip": "ConsoleAppNamedPipeServerStream\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Temp\\.ispp45\\OKFKS\\LabWork7\\WinFormsAppNamedPipeServerStream\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsAppNamedPipeServerStream\\Form1.cs",
+              "ToolTip": "C:\\Temp\\.ispp45\\OKFKS\\LabWork7\\WinFormsAppNamedPipeServerStream\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WinFormsAppNamedPipeServerStream\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-31T10:39:37.028Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-14T10:53:24.199Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "OwnerCaption": "%2"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TextFile.txt",
-              "DocumentMoniker": "C:\\Temp\\.ispp45\\LabWork7\\WinFormsAppNamedPipeServerStream\\TextFile.txt",
-              "RelativeDocumentMoniker": "WinFormsAppNamedPipeServerStream\\TextFile.txt",
-              "ToolTip": "C:\\Temp\\.ispp45\\LabWork7\\WinFormsAppNamedPipeServerStream\\TextFile.txt",
-              "RelativeToolTip": "WinFormsAppNamedPipeServerStream\\TextFile.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-10-31T10:36:45.709Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ScriptingHost.cs",
-              "DocumentMoniker": "C:\\Temp\\.ispp45\\LabWork7\\WinFormsAppNamedPipeServerStream\\ScriptingHost.cs",
+              "DocumentMoniker": "C:\\Temp\\.ispp45\\OKFKS\\LabWork7\\WinFormsAppNamedPipeServerStream\\ScriptingHost.cs",
               "RelativeDocumentMoniker": "WinFormsAppNamedPipeServerStream\\ScriptingHost.cs",
-              "ToolTip": "C:\\Temp\\.ispp45\\LabWork7\\WinFormsAppNamedPipeServerStream\\ScriptingHost.cs",
+              "ToolTip": "C:\\Temp\\.ispp45\\OKFKS\\LabWork7\\WinFormsAppNamedPipeServerStream\\ScriptingHost.cs",
               "RelativeToolTip": "WinFormsAppNamedPipeServerStream\\ScriptingHost.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAIAwwCwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwCwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-31T10:32:35.778Z",
-              "EditorCaption": ""
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Temp\\.ispp45\\LabWork7\\WinFormsAppNamedPipeServerStream\\Form1.cs",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Temp\\.ispp45\\OKFKS\\LabWork7\\WinFormsAppNamedPipeServerStream\\Form1.cs",
               "RelativeDocumentMoniker": "WinFormsAppNamedPipeServerStream\\Form1.cs",
-              "ToolTip": "C:\\Temp\\.ispp45\\LabWork7\\WinFormsAppNamedPipeServerStream\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "WinFormsAppNamedPipeServerStream\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "ToolTip": "C:\\Temp\\.ispp45\\OKFKS\\LabWork7\\WinFormsAppNamedPipeServerStream\\Form1.cs",
+              "RelativeToolTip": "WinFormsAppNamedPipeServerStream\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowBYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-31T10:24:55.383Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2026-10-31T10:24:00.574Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Temp\\.ispp45\\LabWork7\\WinFormsAppNamedPipeServerStream\\Form1.cs",
-              "RelativeDocumentMoniker": "WinFormsAppNamedPipeServerStream\\Form1.cs",
-              "ToolTip": "C:\\Temp\\.ispp45\\LabWork7\\WinFormsAppNamedPipeServerStream\\Form1.cs",
-              "RelativeToolTip": "WinFormsAppNamedPipeServerStream\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBsAAAAxAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Temp\\.ispp45\\OKFKS\\LabWork7\\ConsoleAppNamedPipeServerStream\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppNamedPipeServerStream\\Program.cs",
+              "ToolTip": "C:\\Temp\\.ispp45\\OKFKS\\LabWork7\\ConsoleAppNamedPipeServerStream\\Program.cs",
+              "RelativeToolTip": "ConsoleAppNamedPipeServerStream\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-31T10:24:00.574Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-31T10:39:37.028Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 148,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Automation.cs",
+              "DocumentMoniker": "C:\\Temp\\.ispp45\\OKFKS\\LabWork7\\WinFormsAppNamedPipeServerStream\\Automation.cs",
+              "RelativeDocumentMoniker": "WinFormsAppNamedPipeServerStream\\Automation.cs",
+              "ToolTip": "C:\\Temp\\.ispp45\\OKFKS\\LabWork7\\WinFormsAppNamedPipeServerStream\\Automation.cs",
+              "RelativeToolTip": "WinFormsAppNamedPipeServerStream\\Automation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T10:47:32.445Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
             }
           ]
         }
