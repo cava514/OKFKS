@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "shHXcb2xXv4=",
+  "dgSpecHash": "rEf7fqZQ+1g=",
   "success": true,
-  "projectFilePath": "C:\\Temp\\.ispp45\\JwtExample\\JwtExample\\JwtExample.csproj",
+  "projectFilePath": "C:\\Temp\\.ispp45\\OKFKS\\JwtExample\\JwtExample\\JwtExample.csproj",
   "expectedPackageFiles": [
     "C:\\NugetCache\\Packages\\microsoft.aspnetcore.authentication.jwtbearer\\10.0.14\\microsoft.aspnetcore.authentication.jwtbearer.10.0.14.nupkg.sha512",
     "C:\\NugetCache\\Packages\\microsoft.bcl.cryptography\\10.0.2\\microsoft.bcl.cryptography.10.0.2.nupkg.sha512",

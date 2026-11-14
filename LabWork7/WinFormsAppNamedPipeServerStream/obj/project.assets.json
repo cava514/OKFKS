@@ -539,11 +539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Temp\\.ispp45\\LabWork7\\WinFormsAppNamedPipeServerStream\\WinFormsAppNamedPipeServerStream.csproj",
+      "projectUniqueName": "C:\\Temp\\.ispp45\\OKFKS\\LabWork7\\WinFormsAppNamedPipeServerStream\\WinFormsAppNamedPipeServerStream.csproj",
       "projectName": "WinFormsAppNamedPipeServerStream",
-      "projectPath": "C:\\Temp\\.ispp45\\LabWork7\\WinFormsAppNamedPipeServerStream\\WinFormsAppNamedPipeServerStream.csproj",
+      "projectPath": "C:\\Temp\\.ispp45\\OKFKS\\LabWork7\\WinFormsAppNamedPipeServerStream\\WinFormsAppNamedPipeServerStream.csproj",
       "packagesPath": "C:\\NugetCache\\Packages",
-      "outputPath": "C:\\Temp\\.ispp45\\LabWork7\\WinFormsAppNamedPipeServerStream\\obj\\",
+      "outputPath": "C:\\Temp\\.ispp45\\OKFKS\\LabWork7\\WinFormsAppNamedPipeServerStream\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -578,7 +578,7 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.300"
+      "SdkAnalysisLevel": "11.0.100"
     },
     "frameworks": {
       "net10.0-windows": {
@@ -609,7 +609,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.302/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\11.0.100/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",

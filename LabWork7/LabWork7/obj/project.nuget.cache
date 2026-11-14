@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sbmVrbpIeYw=",
+  "dgSpecHash": "/2BTf742e9E=",
   "success": true,
-  "projectFilePath": "C:\\Temp\\.ispp45\\LabWork7\\LabWork7\\LabWork7.csproj",
+  "projectFilePath": "C:\\Temp\\.ispp45\\OKFKS\\LabWork7\\LabWork7\\LabWork7.csproj",
   "expectedPackageFiles": [
     "C:\\NugetCache\\Packages\\microsoft.codeanalysis.analyzers\\5.9.0-1.26328.17\\microsoft.codeanalysis.analyzers.5.9.0-1.26328.17.nupkg.sha512",
     "C:\\NugetCache\\Packages\\microsoft.codeanalysis.common\\5.9.0\\microsoft.codeanalysis.common.5.9.0.nupkg.sha512",
