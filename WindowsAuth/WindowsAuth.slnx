@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="WebWindowsAuth/WebWindowsAuth.csproj" />
+  <Project Path="WindowsAuth/WindowsAuth.csproj" />
+</Solution>

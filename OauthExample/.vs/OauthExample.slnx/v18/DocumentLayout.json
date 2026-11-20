@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Temp\\.ispp45\\OKFKS\\OauthExample\\",
+  "WorkspaceRootPath": "C:\\Users\\221\\students\\.ispp45\\OKFKS\\OauthExample\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AEF4F890-AFDF-45F9-A6DE-AEEF492E0DCE}|OauthExample\\OauthExample.csproj|c:\\temp\\.ispp45\\okfks\\oauthexample\\oauthexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEF4F890-AFDF-45F9-A6DE-AEEF492E0DCE}|OauthExample\\OauthExample.csproj|solutionrelative:oauthexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46F493EB-5030-7BAF-E167-50672B98CDB9}|OauthExample\\OauthExample.csproj|c:\\users\\221\\students\\.ispp45\\okfks\\oauthexample\\oauthexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F493EB-5030-7BAF-E167-50672B98CDB9}|OauthExample\\OauthExample.csproj|solutionrelative:oauthexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AEF4F890-AFDF-45F9-A6DE-AEEF492E0DCE}|OauthExample\\OauthExample.csproj|c:\\temp\\.ispp45\\okfks\\oauthexample\\oauthexample\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{AEF4F890-AFDF-45F9-A6DE-AEEF492E0DCE}|OauthExample\\OauthExample.csproj|solutionrelative:oauthexample\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{46F493EB-5030-7BAF-E167-50672B98CDB9}|OauthExample\\OauthExample.csproj|c:\\users\\221\\students\\.ispp45\\okfks\\oauthexample\\oauthexample\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{46F493EB-5030-7BAF-E167-50672B98CDB9}|OauthExample\\OauthExample.csproj|solutionrelative:oauthexample\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AEF4F890-AFDF-45F9-A6DE-AEEF492E0DCE}|OauthExample\\OauthExample.csproj|c:\\temp\\.ispp45\\okfks\\oauthexample\\oauthexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{AEF4F890-AFDF-45F9-A6DE-AEEF492E0DCE}|OauthExample\\OauthExample.csproj|solutionrelative:oauthexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{46F493EB-5030-7BAF-E167-50672B98CDB9}|OauthExample\\OauthExample.csproj|c:\\users\\221\\students\\.ispp45\\okfks\\oauthexample\\oauthexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{46F493EB-5030-7BAF-E167-50672B98CDB9}|OauthExample\\OauthExample.csproj|solutionrelative:oauthexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,39 +36,37 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Temp\\.ispp45\\OKFKS\\OauthExample\\OauthExample\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\221\\students\\.ispp45\\OKFKS\\OauthExample\\OauthExample\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "OauthExample\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Temp\\.ispp45\\OKFKS\\OauthExample\\OauthExample\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\221\\students\\.ispp45\\OKFKS\\OauthExample\\OauthExample\\Properties\\launchSettings.json",
               "RelativeToolTip": "OauthExample\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-11-19T12:55:55.763Z",
-              "EditorCaption": "",
               "OwnerCaption": "%2"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Temp\\.ispp45\\OKFKS\\OauthExample\\OauthExample\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\221\\students\\.ispp45\\OKFKS\\OauthExample\\OauthExample\\appsettings.json",
               "RelativeDocumentMoniker": "OauthExample\\appsettings.json",
-              "ToolTip": "C:\\Temp\\.ispp45\\OKFKS\\OauthExample\\OauthExample\\appsettings.json",
+              "ToolTip": "C:\\Users\\221\\students\\.ispp45\\OKFKS\\OauthExample\\OauthExample\\appsettings.json",
               "RelativeToolTip": "OauthExample\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-11-19T12:21:36.518Z",
-              "EditorCaption": "",
               "OwnerCaption": "%2"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Temp\\.ispp45\\OKFKS\\OauthExample\\OauthExample\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\221\\students\\.ispp45\\OKFKS\\OauthExample\\OauthExample\\Program.cs",
               "RelativeDocumentMoniker": "OauthExample\\Program.cs",
-              "ToolTip": "C:\\Temp\\.ispp45\\OKFKS\\OauthExample\\OauthExample\\Program.cs",
+              "ToolTip": "C:\\Users\\221\\students\\.ispp45\\OKFKS\\OauthExample\\OauthExample\\Program.cs",
               "RelativeToolTip": "OauthExample\\Program.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAqwEcAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-19T12:03:29.208Z",
               "EditorCaption": "",

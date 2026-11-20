@@ -1,0 +1,6 @@
+@WebWindowsAuth_HostAddress = http://localhost:5085
+
+GET {{WebWindowsAuth_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

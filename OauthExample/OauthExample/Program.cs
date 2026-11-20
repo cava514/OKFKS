@@ -29,6 +29,8 @@ builder.Services.AddAuthentication(options =>
     options.ClaimActions.MapJsonKey(ClaimTypes.NameIdentifier, "id");
     options.ClaimActions.MapJsonKey(ClaimTypes.Name, "login");
 
+    options.Scope.Add("repo");
+
     options.Events = new OAuthEvents
     {
         OnCreatingTicket = async context =>

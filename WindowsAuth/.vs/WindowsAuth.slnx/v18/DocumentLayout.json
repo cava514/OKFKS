@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\221\\students\\.ispp45\\OKFKS\\WindowsAuth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDCA7617-7055-409D-A747-E35F73547AFE}|WebWindowsAuth\\WebWindowsAuth.csproj|c:\\users\\221\\students\\.ispp45\\okfks\\windowsauth\\webwindowsauth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDCA7617-7055-409D-A747-E35F73547AFE}|WebWindowsAuth\\WebWindowsAuth.csproj|solutionrelative:webwindowsauth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDCA7617-7055-409D-A747-E35F73547AFE}|WebWindowsAuth\\WebWindowsAuth.csproj|c:\\users\\221\\students\\.ispp45\\okfks\\windowsauth\\webwindowsauth\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EDCA7617-7055-409D-A747-E35F73547AFE}|WebWindowsAuth\\WebWindowsAuth.csproj|solutionrelative:webwindowsauth\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDCA7617-7055-409D-A747-E35F73547AFE}|WebWindowsAuth\\WebWindowsAuth.csproj|c:\\users\\221\\students\\.ispp45\\okfks\\windowsauth\\webwindowsauth\\webwindowsauth.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{EDCA7617-7055-409D-A747-E35F73547AFE}|WebWindowsAuth\\WebWindowsAuth.csproj|solutionrelative:webwindowsauth\\webwindowsauth.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDCA7617-7055-409D-A747-E35F73547AFE}|WebWindowsAuth\\WebWindowsAuth.csproj|c:\\users\\221\\students\\.ispp45\\okfks\\windowsauth\\webwindowsauth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EDCA7617-7055-409D-A747-E35F73547AFE}|WebWindowsAuth\\WebWindowsAuth.csproj|solutionrelative:webwindowsauth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EF6074-50A9-4179-AA2C-A180B6655174}|WindowsAuth\\WindowsAuth.csproj|c:\\users\\221\\students\\.ispp45\\okfks\\windowsauth\\windowsauth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96EF6074-50A9-4179-AA2C-A180B6655174}|WindowsAuth\\WindowsAuth.csproj|solutionrelative:windowsauth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 252,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\221\\students\\.ispp45\\OKFKS\\WindowsAuth\\WebWindowsAuth\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebWindowsAuth\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\221\\students\\.ispp45\\OKFKS\\WindowsAuth\\WebWindowsAuth\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebWindowsAuth\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-20T08:29:04.311Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebWindowsAuth.http",
+              "DocumentMoniker": "C:\\Users\\221\\students\\.ispp45\\OKFKS\\WindowsAuth\\WebWindowsAuth\\WebWindowsAuth.http",
+              "RelativeDocumentMoniker": "WebWindowsAuth\\WebWindowsAuth.http",
+              "ToolTip": "C:\\Users\\221\\students\\.ispp45\\OKFKS\\WindowsAuth\\WebWindowsAuth\\WebWindowsAuth.http",
+              "RelativeToolTip": "WebWindowsAuth\\WebWindowsAuth.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-11-20T08:29:00.266Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\221\\students\\.ispp45\\OKFKS\\WindowsAuth\\WebWindowsAuth\\Program.cs",
+              "RelativeDocumentMoniker": "WebWindowsAuth\\Program.cs",
+              "ToolTip": "C:\\Users\\221\\students\\.ispp45\\OKFKS\\WindowsAuth\\WebWindowsAuth\\Program.cs",
+              "RelativeToolTip": "WebWindowsAuth\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T08:04:56.654Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\221\\students\\.ispp45\\OKFKS\\WindowsAuth\\WebWindowsAuth\\appsettings.json",
+              "RelativeDocumentMoniker": "WebWindowsAuth\\appsettings.json",
+              "ToolTip": "C:\\Users\\221\\students\\.ispp45\\OKFKS\\WindowsAuth\\WebWindowsAuth\\appsettings.json",
+              "RelativeToolTip": "WebWindowsAuth\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-20T08:28:57.679Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\221\\students\\.ispp45\\OKFKS\\WindowsAuth\\WindowsAuth\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsAuth\\Program.cs",
+              "ToolTip": "C:\\Users\\221\\students\\.ispp45\\OKFKS\\WindowsAuth\\WindowsAuth\\Program.cs",
+              "RelativeToolTip": "WindowsAuth\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T07:43:20.312Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
